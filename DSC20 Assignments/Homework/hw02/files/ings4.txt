@@ -1,0 +1,3 @@
+alena,miniso,keychain, 3
+gabby,pop mart,figure,3
+nik,hound,hoodie,1

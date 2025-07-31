@@ -1,0 +1,4 @@
+Patrick,1
+Travis,1
+Clyde,0
+Andy,1

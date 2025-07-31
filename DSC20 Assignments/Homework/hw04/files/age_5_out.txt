@@ -1,0 +1,6 @@
+name,older than 35
+Ron,0
+Harry,0
+Ron,0
+Rob,-1
+Harry,0

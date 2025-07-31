@@ -1,0 +1,7 @@
+name,city,DOB
+Rob,Chicago,Oct10 2010
+Ella,New York,Apr09 1970
+Mary,New York.,Jan01 2004
+Rob,Chicago,Oct10 2010
+Ella,New York,Apr09 1970
+Mary,New York.,Jan01 2004

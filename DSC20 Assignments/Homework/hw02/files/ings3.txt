@@ -1,0 +1,3 @@
+steven,target,chips,4
+harvey,ross,jeans,3
+jeff,musinsa,jeans,3

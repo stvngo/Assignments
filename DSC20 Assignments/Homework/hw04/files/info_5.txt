@@ -1,0 +1,6 @@
+Name, City, DOB
+Ron, paris, 11/11/1989
+Harry, paris, 12/15/1989
+Ron, Paris, 11/11/1989
+Rob, Chicago,  10/10/2010
+Harry, paris, 12/15/1989
